@@ -79,29 +79,29 @@ streamlit run app.py
 ---
 
 ## 🤖 Chatbot Logic
--User Intent Detection:
--Greetings
--Nearby place inquiries
--Budget-related questions
--Restaurant recommendations
--General travel advice
--Response Generation:
--Predefined answers for FAQs
+- User Intent Detection:
+- Greetings
+- Nearby place inquiries
+- Budget-related questions
+- Restaurant recommendations
+- General travel advice
+- Response Generation:
+- Predefined answers for FAQs
 
 ---
 
 ## ✅ Results
--Successfully recommends nearby attractions and eateries.
--Provides useful budget insights.
--Simple and intuitive chatbot interaction.
--Positive feedback from testers regarding usability.
+- Successfully recommends nearby attractions and eateries.
+- Provides useful budget insights.
+- Simple and intuitive chatbot interaction.
+- Positive feedback from testers regarding usability.
 
 ---
 
 ## 🧠 Future Enhancements
--🌐 Google Places API integration for real-time data.
--🧑‍💼 User profile-based personalized suggestions.
--🗺️ Route planning and itinerary builder.
--🏨 Hotel search and booking options.
--🧾 User reviews and rating system.
--🗣️ Multilingual chatbot and UI.
+- 🌐 Google Places API integration for real-time data.
+- 🧑‍💼 User profile-based personalized suggestions.
+- 🗺️ Route planning and itinerary builder.
+- 🏨 Hotel search and booking options.
+- 🧾 User reviews and rating system.
+- 🗣️ Multilingual chatbot and UI.
